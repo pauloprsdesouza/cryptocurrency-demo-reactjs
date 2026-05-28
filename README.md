@@ -1,15 +1,33 @@
 # Cryptocurrency Demo (React + TypeScript)
 
-Frontend demo application for cryptocurrency dashboards and market interactions.
+Frontend application for cryptocurrency dashboards and market-data interactions.
 
-## Features
-- Market listing and detail views
-- TypeScript-first frontend structure
-- API integration patterns for crypto data providers
+## What this repository contains
+- React + TypeScript client application
+- Market listing and visualization pages
+- Frontend integration with crypto data APIs
 
-## Tech Stack
+## Tech stack
 - React
 - TypeScript
+- npm
 
-## Status
-Demo project for learning and reference.
+## Project structure
+- `src/` - application source code
+- `public/` - static assets
+
+## Getting started
+```bash
+npm install
+npm start
+```
+
+## Build
+```bash
+npm run build
+```
+
+## Testing
+```bash
+npm test
+```
